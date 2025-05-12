@@ -38,8 +38,23 @@
 
 # Склонировать изначальную репу и перейти в неё
 
-git clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
-cd universal-android-debloater-next-generation
+  git clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+
+  cd universal-android-debloater-next-generation
+
+# Установить инструменты разработчика
+
+  paru -S rust clang mold
+
+# Поменять в Cargo.toml зависимость ureq на версию 2.7, а то не соберется
+
+# Сборка утилиты
+
+cargo build --release
+
+# Установка утилиты в  ~/.cargo/bin/
+
+cargo install --path . --config 'build.rustflags="-C target-cpu=native"'
 
 ```
 
