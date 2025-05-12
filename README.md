@@ -1,4 +1,5 @@
-# Universal Android Debloater Next Generation (ресурсы на русском языке)
+# Universal Android Debloater Next Generation
+# (ресурсы на русском языке)
 
 > [!warning]
 > **ПРЕДУПРЕЖДЕНИЕ**: Используйте на свой страх и риск. Мы не несем ответственности за возможные проблемы с вашими устройствами.
