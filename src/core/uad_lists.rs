@@ -207,7 +207,7 @@ pub fn load_debloat_lists(remote: bool) -> Result<PackageHashMap, PackageHashMap
     let list: PackageHashMap = if remote {
         retry(Fixed::from_millis(1000).take(60), || {
             match ureq::get(
-                &format!("https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater/\
+                &format!("https://raw.githubusercontent.com/huuvehcie/uad-ngrus/\
            main/resources/assets/{LIST_FNAME}"),
             )
             .call()
