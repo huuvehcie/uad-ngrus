@@ -1,0 +1,1446 @@
+{
+  "device_id": "1e286272",
+  "users": [
+    {
+      "id": 0,
+      "packages": [
+        {
+          "name": "android",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.aosp.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.aosp.overlay.telephony",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.auto_generated_characteristics_rro",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.autoinstalls.config.Xiaomi.model",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "android.miui.home.launcher.res",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "android.miui.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.miui.overlay.telephony",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.overlay.target",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.qvaoverlay.common",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.apps.tag",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.avatarpicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.backupconfirm",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bips",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bluetooth",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bluetooth.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bluetoothmidiservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bookmarkprovider",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.calllogbackup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.camera",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.cameraextensions",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.carrierconfig",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.carrierconfig.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.carrierconfig.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.carrierdefaultapp",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.cellbroadcastreceiver",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.cellbroadcastreceiver.overlay.common",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.certinstaller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.chrome",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.companiondevicemanager",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.companiondevicemanager.auto_generated_characteristics_rro",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.compos.payload",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.connectivity.resources.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.contacts",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.credentialmanager",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.cts.ctsshim",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.cts.priv.ctsshim",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.DeviceAsWebcam",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.devicediagnostics",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.dreams.basic",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.dreams.phototable",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.dynsystem",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.egg",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.emergency",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.externalstorage",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.hotspot2.osulogin",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.hotwordenrollment.okgoogle",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.hotwordenrollment.xgoogle",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.htmlviewer",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.imsserviceentitlement",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.incallui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.inputdevices",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.inputsettings.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.intentresolver",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.corner",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.double",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.hole",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.tall",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.waterfall",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.gestural",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.threebutton",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.transparent",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.keychain",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.localtransport",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.location.fused",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.managedprovisioning",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.managedprovisioning.overlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.microdroid.empty_payload",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.mms",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.mms.service",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.mtp",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.musicfx",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.networkstack.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.nfc",
+          "state": "Disabled"
+        },
+        {
+          "name": "com.android.ons",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.overlay.gmscontactprovider",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.overlay.gmssettingprovider",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.overlay.gmssettings",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.overlay.gmstelecomm",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.overlay.gmstelephony",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.overlay.systemui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.pacprocessor",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.phone",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.phone.auto_generated_characteristics_rro",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.phone.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.phone.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.printspooler",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.blockednumber",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.calendar",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.contactkeys",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.contacts",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.downloads",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.downloads.ui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.media",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.partnerbookmarks",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.providers.settings",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.settings.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.telephony",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.telephony.auto_generated_characteristics_rro",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.telephony.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.userdictionary",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.provision",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.proxyhandler",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.rkpdapp",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.role.notes.enabled",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.se",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.server.telecom",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.server.telecom.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.server.telecom.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings.intelligence",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings.overlay.miui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.sharedstoragebackup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.shell",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.simappdialog",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.smspush",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.soundpicker",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.statementservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.stk",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.stk.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.storagemanager",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.systemui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.systemui.accessibility.accessibilitymenu",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.systemui.gesture.line.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.systemui.navigation.bar.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.systemui.overlay.common",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.systemui.overlay.miui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.theme.font.notoserifsource",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.thememanager",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.thememanager.customizethemeconfig.config.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.traceur",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.updater",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.uwb.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.uwb.resources.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.vending",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.virtualmachine.res",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.vpndialogs",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpaper.livepicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpaperbackup",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpapercropper",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.dialog",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.resources.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.resources.overlay.target",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.resources.xiaomi",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.bsp.logmanager",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.accessibility.switchaccess",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.adservices.api",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.docs",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.apps.maps",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.apps.photos",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.restore",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.safetyhub",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.tachyon",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.wellbeing",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.youtube.music",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.appsearch.apk",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.as",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.as.oss",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.captiveportallogin",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastreceiver",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastservice.overlay.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.configupdater",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.connectivity.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.devicelockcontroller",
+          "state": "Disabled"
+        },
+        {
+          "name": "com.google.android.documentsui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.ext.services",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.ext.shared",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.federatedcompute",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.feedback",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gm",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gms",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.gms.location.history",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gms.supervision",
+          "state": "Disabled"
+        },
+        {
+          "name": "com.google.android.googlequicksearchbox",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gsf",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.health.connect.backuprestore",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.healthconnect.controller",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.inputmethod.latin",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.marvin.talkback",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.modulemetadata",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack.tethering",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.ondevicepersonalization.services",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.onetimeinitializer",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.devicelockcontroller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.asi",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.geotz",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.gsa",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.personalsafety",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.photos",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.documentsui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.ext.services",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.healthfitness.forframework",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.permissioncontroller",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.packageinstaller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.partnersetup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.permissioncontroller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.photopicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.printservice.recommendation",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.projection.gearhead",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.providers.media.module",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.safetycenter.resources",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.sdksandbox",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.server.deviceconfig.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.setupwizard",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.syncadapters.calendar",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.tts",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.videos",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.webview",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.wifi.resources.overlay.common",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.wifi.resources.xiaomi",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.youtube",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.mainline.adservices",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.mainline.telemetry",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.lbe.security.miui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.longcheertel.AutoTest",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.longcheertel.cit",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.longcheertel.sarauth",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mi.android.globalFileexplorer",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mi.globalbrowser",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mi.globallayout",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.microsoftsdk.crossdeviceservicebroker",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.milink.service",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.accessibility",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.analytics",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.aod",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.audiomonitor",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.autoui.ext",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.backup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.bugreport",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.cleaner",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.cloudbackup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.cloudservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.core",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.core.internal.services",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.daemon",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.extraphoto",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.face",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.gallery",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.guardprovider",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.home",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.mediaviewer",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.micloudsync",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.miservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.mishare.connectivity",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.misound",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.miwallpaper",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.miwallpaper.config.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.miwallpaper.overlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.miwallpaper.overlay.customize",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.msa.global",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.notification",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.permissioncontroller.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.phone.carriers.overlay.h3g",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.phone.carriers.overlay.vodafone",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.phrase",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.player",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.powerkeeper",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.qr",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.rom",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.screenshot",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.securityadd",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.securitycenter",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.securitycore",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.settings.rro.device.config.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.settings.rro.device.systemui.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.settings.rro.device.type.overlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.system",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.system.overlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.systemui.carriers.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.systemui.devices.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.systemui.overlay.devices.android",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.miui.videoplayer",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.wallpaper.overlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miui.wallpaper.overlay.customize",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.miuix.editor",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.novatek.novavis",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qti.dcf",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qti.dpmserviceapp",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qti.phone",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qti.qcc",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qti.qualcomm.datastatusnotification",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qti.qualcomm.deviceinfo",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qti.service.colorservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qti.xdivert",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.atfwd",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.atfwd2",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.location",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qcrilmsgtunnel",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.biometrics.fingerprint.service",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.callfeaturessetting",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.cne",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.confdialer",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.devicestatisticsservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.dynamicddsservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.ims",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.lpa",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.poweroffalarm",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.qcolor",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.qms.service.trustzoneaccess",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.remoteSimlockAuth",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.ridemodeaudio",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.server.qtiwifi",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.server.wigig.tethering.rro",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.services.systemhelper",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.simcontacts",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.telephonyservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.uceShimService",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.uim",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.uimGbaApp",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.workloadclassifier",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.qti.xrcb",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.qti.xrvd.service",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.qualcomm.timeservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.uimremoteclient",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.uimremoteserver",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.qualcomm.wfd.service",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.wdstechnology.android.kryten",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.account",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.aiasst.vision",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.aicr",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.barrage",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.bluetooth",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.bluetooth.rro.device.config.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.cameramind",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.discover",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.finddevice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.joyose",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.mi_connect_service",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.micloud.sdk",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.miralink",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.mirror",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.misettings",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.mtb",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.payment",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.phone",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.phone.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.simactivate.service",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.touchservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.trustservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.xiaomi.ugd",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.xmsf",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.xiaomi.xmsfkeeper",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "miui.systemui.plugin",
+          "state": "Enabled"
+        },
+        {
+          "name": "org.codeaurora.ims",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "vendor.qti.hardware.cacert.server",
+          "state": "Enabled"
+        },
+        {
+          "name": "vendor.qti.imsdatachannel",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "vendor.qti.imsrcs",
+          "state": "Enabled"
+        },
+        {
+          "name": "vendor.qti.iwlan",
+          "state": "Enabled"
+        },
+        {
+          "name": "vendor.qti.qesdk.sysservice",
+          "state": "Uninstalled"
+        }
+      ]
+    }
+  ]
+}
