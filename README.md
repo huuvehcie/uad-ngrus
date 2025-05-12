@@ -32,6 +32,17 @@
 - [@mawilms](https://github.com/mawilms ) за его менеджер плагинов LotRO ([Lembas](https://github.com/mawilms/lembas )), который помог понять, как использовать библиотеку GUI [Iced](https://github.com/hecrj/iced ).
 - [@casperstorm](https://github.com/casperstorm ) за вдохновение в дизайне интерфейса.
 
+# Инструкция по русификации и сборке
+
+bash'''
+
+# Склонировать изначальную репу и перейти в неё
+
+git clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+cd universal-android-debloater-next-generation
+
+'''
+
 **Назначение:** Это перевод на русский файла ресурсов для Unversal Android Debloater Next Generation
 
 **Утилита:** https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
