@@ -3,7 +3,7 @@
 > [!warning]
 > **ПРЕДУПРЕЖДЕНИЕ**: Используйте на свой страх и риск. Мы не несем ответственности за возможные проблемы с вашими устройствами.
 
-<img src="/resources/screenshots/v1.0.2.png" width="850" alt="uad_screenshot">
+<img src="/uad-ng.png" width="850" alt="uad_screenshot">
 
 **Ознакомьтесь с проблемами, и [присоединяйтесь к разработке!](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/How-to-contribute )**. Нам **очень нужны** [разработчики Rust](https://www.rust-lang.org ) для исправления критических ошибок, подробнее в [этом объявлении](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions/731 ).
 
