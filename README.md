@@ -34,14 +34,14 @@
 
 # Инструкция по русификации и сборке
 
-bash'''
+bash```
 
 # Склонировать изначальную репу и перейти в неё
 
 git clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
 cd universal-android-debloater-next-generation
 
-'''
+```
 
 **Назначение:** Это перевод на русский файла ресурсов для Unversal Android Debloater Next Generation
 
