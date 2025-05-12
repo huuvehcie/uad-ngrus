@@ -66,5 +66,3 @@ cargo install --path . --config 'build.rustflags="-C target-cpu=native"'
 1. json2txt.py - извлечение из файла ресурсов описания
 2. txt2json.py - загрузка в JSON описаний
 3. uad_lists.json - переведенный на русский язык файл ресурсов
-
-**Путь до файла ресурса:** 
