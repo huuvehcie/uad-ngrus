@@ -48,6 +48,8 @@
 
 # Поменять в Cargo.toml зависимость ureq на версию 2.7, а то не соберется
 
+# Подменить uad_lists.json из этого репозитория в склонированный в universal-android-debloater-next-generation/resources/assets
+
 # Сборка утилиты
 
 cargo build --release
@@ -58,9 +60,7 @@ cargo install --path . --config 'build.rustflags="-C target-cpu=native"'
 
 ```
 
-**Назначение:** Это перевод на русский файла ресурсов для Unversal Android Debloater Next Generation
-
-**Утилита:** https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+## Дополнительные файлы
 
 **Файлы:**
 1. json2txt.py - извлечение из файла ресурсов описания
