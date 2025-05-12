@@ -33,37 +33,9 @@
 - [@mawilms](https://github.com/mawilms ) за его менеджер плагинов LotRO ([Lembas](https://github.com/mawilms/lembas )), который помог понять, как использовать библиотеку GUI [Iced](https://github.com/hecrj/iced ).
 - [@casperstorm](https://github.com/casperstorm ) за вдохновение в дизайне интерфейса.
 
-# Инструкция по русификации и сборке
-
-``` bash
-
-# Склонировать изначальную репу и перейти в неё
-
-  git clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
-
-  cd universal-android-debloater-next-generation
-
-# Установить инструменты разработчика
-
-  paru -S rust clang mold
-
-# Поменять в Cargo.toml зависимость ureq на версию 2.7, а то не соберется
-
-# Подменить uad_lists.json из этого репозитория в склонированный в universal-android-debloater-next-generation/resources/assets
-
-# Сборка утилиты
-
-cargo build --release
-
-# Установка утилиты в  ~/.cargo/bin/
-
-cargo install --path . --config 'build.rustflags="-C target-cpu=native"'
-
-```
 
 ## Дополнительные файлы
 
 **Файлы:**
 1. json2txt.py - извлечение из файла ресурсов описания
 2. txt2json.py - загрузка в JSON описаний
-3. uad_lists.json - переведенный на русский язык файл ресурсов
